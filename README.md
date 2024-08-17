@@ -6,14 +6,10 @@ I am a junior Full-Stack developer who is rapidly pursuing excellence. Every pro
 
 P.S. My goal is to work at Google. If you're reading this, Google, get me on your team!
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/maksud-jumaniyozov-34a831318/" >
-
-
-
-      
-    </a>
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/maksud-jumaniyozov-34a831318/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="" alt="Telegram" title="Telegram"><img width="32px" src="https://imgur.com/gallery/telegram-icon-WMBzbWh"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    
 </p>
