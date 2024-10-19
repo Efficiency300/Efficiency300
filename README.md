@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif)](https://1.bp.blogspot.com/-7A4WynwLsM...)
+![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 
 <h1 align="center">Hi 👋, I'm Maksud Jumaniyozov</h1>
 <h3 align="center">GIGA Backend Developer from Uzbekistan</h3>
