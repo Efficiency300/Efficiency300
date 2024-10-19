@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maksud Jumaniyozov</h1>
 <h3 align="center">GIGA Backend Developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efficiency300&label=Profile%20views&color=0e75b6&style=flat" alt="efficiency300" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efficiency300" alt="efficiency300" /></a> </p>
-
 - 🔭 I’m currently working on [Telegram Profile Ai bot](https://github.com/Efficiency300/Telegram_AI_Profile_Bot)
 
 - 🌱 I’m currently learning **LangChain**
